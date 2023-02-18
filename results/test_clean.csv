@@ -1,8 +1,5 @@
-BibNum,Title,Author,ISBN,PublicationYear,ItemType,ItemCollection,ItemLocation,ItemPrice,ReportDate
-707409,"Jeff Immelt and the new GE way : innovation, t...","Magee, David, 1965-",32342342342342,2009.0,Book,Older Teen Fiction,Main,25.95,02/01/2023 00:00:00
-707411,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",23423423423423,2009.0,Book,Adult Non-Fiction,Southwest,19.99,02/01/2023 00:00:00
-707411,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2342342342342,2009.0,Book,Adult Non-Fiction,Southwest,19.99,02/01/2023 00:00:00
-707412,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2342342342342,,Book,,Southwest,19.99,02/01/2023 00:00:00
-707413,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2342342342342,9999.0,Book,Adult Non-Fiction,Southwest,19.99,02/01/2023 00:00:00
-707414,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2342342342342,0.0,Book,Adult Non-Fiction,Southwest,19.99,02/01/2023 00:00:00
-707408,"Jeff Immelt and the new GE way : innovation, t...","Magee, David, 1965-",32342342342342,2109.0,Book,Adult Non-Fiction,Main,25.95,02/01/2023 00:00:00
+BibNum,Title,Author,PublicationYear,ItemType,ItemCollection,ItemLocation,ItemPrice,Genre,Audience
+707409,"Jeff Immelt and the new GE way : innovation, t...","Magee, David, 1965-",2009.0,Book,Older Teen Fiction,Main,25.95,Fiction,Teen
+707411,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2009.0,Book,Adult Non-Fiction,Southwest,19.99,Non-Fiction,Adult
+707411,Robin rescues dinner : 52 weeks of quick-fix m...,"Miller, Robin, 1964-",2009.0,Book,Adult Non-Fiction,Southwest,19.99,Non-Fiction,Adult
+707408,"Jeff Immelt and the new GE way : innovation, t...","Magee, David, 1965-",2019.0,Book,Adult Non-Fiction,Main,25.95,Non-Fiction,Adult
